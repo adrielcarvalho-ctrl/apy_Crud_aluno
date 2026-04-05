@@ -112,17 +112,14 @@ Body → JSON:
 
 Os dados são armazenados no arquivo `alunos.json` no seguinte formato:
  json
-[
+
     {
         "matricula": 1,
         "nome": "Adriel",
         "idade": 22,
         "curso": "ADS"
     }
-]
-```
 
----
 
 ## Observações importantes
 
