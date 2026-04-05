@@ -1,0 +1,14 @@
+[
+    {
+        "matricula": 1,
+        "nome": "Adriel Carvalho",
+        "curso": "tads",
+        "idade": "30"
+    },
+    {
+        "matricula": 5,
+        "nome": "Emanuella Dos Santos",
+        "curso": "tads",
+        "idade": "18"
+    }
+]
